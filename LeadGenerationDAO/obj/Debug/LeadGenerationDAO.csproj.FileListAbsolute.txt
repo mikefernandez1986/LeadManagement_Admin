@@ -1,0 +1,6 @@
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationDAO\obj\Debug\LeadGenerationDAO.csprojResolveAssemblyReference.cache
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenerationDAO.dll.config
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenerationDAO.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenerationDAO.pdb
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationDAO\obj\Debug\LeadGenerationDAO.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationDAO\obj\Debug\LeadGenerationDAO.pdb

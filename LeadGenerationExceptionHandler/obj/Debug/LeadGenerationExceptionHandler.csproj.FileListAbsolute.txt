@@ -1,0 +1,16 @@
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\LeadGenerationExceptionHandler.dll.config
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\LeadGenerationExceptionHandler.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\LeadGenerationExceptionHandler.pdb
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\LeadGenAdminEntities.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\Newtonsoft.Json.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\System.Net.Http.Formatting.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\System.Web.Http.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\System.Web.Http.WebHost.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\LeadGenAdminEntities.pdb
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\Newtonsoft.Json.xml
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\System.Net.Http.Formatting.xml
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\System.Web.Http.xml
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\bin\Debug\System.Web.Http.WebHost.xml
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\obj\Debug\LeadGenerationExceptionHandler.csprojResolveAssemblyReference.cache
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\obj\Debug\LeadGenerationExceptionHandler.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationExceptionHandler\obj\Debug\LeadGenerationExceptionHandler.pdb
