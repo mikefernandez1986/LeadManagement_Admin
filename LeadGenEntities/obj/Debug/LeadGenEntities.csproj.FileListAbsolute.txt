@@ -1,0 +1,7 @@
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenEntities\bin\Debug\LeadGenEntities.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenEntities\bin\Debug\LeadGenEntities.pdb
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenEntities.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenEntities.pdb
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenEntities\obj\Debug\LeadGenEntities.csprojResolveAssemblyReference.cache
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenEntities\obj\Debug\LeadGenEntities.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenEntities\obj\Debug\LeadGenEntities.pdb

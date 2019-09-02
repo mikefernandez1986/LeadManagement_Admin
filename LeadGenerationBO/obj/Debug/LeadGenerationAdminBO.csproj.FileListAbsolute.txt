@@ -1,0 +1,5 @@
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenerationBO.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenerationBO.pdb
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationBO\obj\Debug\LeadGenerationAdminBO.csprojResolveAssemblyReference.cache
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationBO\obj\Debug\LeadGenerationBO.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenerationBO\obj\Debug\LeadGenerationBO.pdb

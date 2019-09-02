@@ -1,0 +1,4 @@
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenAdminEntities.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\BSLeadGenerationAPI\bin\LeadGenAdminEntities.pdb
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenEntities\obj\Debug\LeadGenAdminEntities.dll
+E:\BSLeadGenerationAPI\BSLeadGenerationAPI\LeadGenEntities\obj\Debug\LeadGenAdminEntities.pdb
